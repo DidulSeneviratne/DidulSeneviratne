@@ -20,13 +20,10 @@
 
 ### 👨‍💻 Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 `FastAPI` • `Spring Boot` • `Laravel` • `Vue.js` • `PyTorch` • `TensorFlow`
@@ -65,11 +62,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DidulSeneviratne&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=DidulSeneviratne&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidulSeneviratne&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/DidulSeneviratne/DidulSeneviratne/output/snake.svg" />
 </p>
 
 ---
@@ -80,6 +77,15 @@
 - 👨‍💻 Projects: https://github.com/DidulSeneviratne
 - 📫 Email: **dulsaradidul@gmail.com**
 - 💼 LinkedIn: *www.linkedin.com/in/didul-seneviratne-9242481ab*
+
+---
+
+## 🧠 Current Development Focus
+
+- 🔬 Generative AI for UI/UX automation
+- ⚙️ FastAPI + ML model production deployment
+- ☁️ CI/CD & cloud training workflows
+- 🏗️ Scalable Spring Boot system design
 
 ---
 
