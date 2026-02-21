@@ -19,7 +19,14 @@
 ## 🧩 Tech Stack
 
 ### 👨‍💻 Languages
-`Python` • `JavaScript` • `Java` • `PHP` • `SQL`
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
 ### ⚙️ Frameworks & Libraries
 `FastAPI` • `Spring Boot` • `Laravel` • `Vue.js` • `PyTorch` • `TensorFlow`
@@ -58,11 +65,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DidulSeneviratne&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DidulSeneviratne&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidulSeneviratne&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidulSeneviratne&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
