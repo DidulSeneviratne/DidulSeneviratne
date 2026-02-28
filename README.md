@@ -65,10 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=DidulSeneviratne&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DidulSeneviratne/DidulSeneviratne/output/snake.svg" />
-</p>
-
 ---
 
 ## 🌐 Portfolio & Contact
